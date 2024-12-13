@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schmidtale
-- 👀 I’m interested in Kendo, Japanese Culture, Gaming.
+- 👀 I’m interested in Kendo, Japanese Culture.
 - 🌱 I’m currently learning C++, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
