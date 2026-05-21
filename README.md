@@ -13,7 +13,7 @@ Certified IT Specialist in Application Development & Software Engineering studen
 A Go-based command-line tool designed to automate and streamline the provisioning of specialized development environments.
 
 ### 🎲 Carcassonne Prototype
-A software engineering class prototype exploring software patterns, tile placement and scoring logic. 
+A Software Engineering class prototype exploring collaboration, software patterns, tile placement and scoring logic. 
 
 ## Contact & Links
 
