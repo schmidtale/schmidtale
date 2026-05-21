@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @schmidtale
-- 👀 I’m interested in Kendo, Japanese Culture.
-- 🌱 I’m currently learning C++, Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alexander Schmidt
+- 👀 I’m interested in Kendo, Japanese Language & Culture.
+- 🌱 I’m currently studying Applied Computer Science at HTWG Konstanz - University of Applied Sciences.
+- 📫 schmidt.trossingen@web.de
 
 <!---
 schmidtale/schmidtale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
